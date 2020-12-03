@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://live.staticflickr.com/sitemap.xml
-Host: https://live.staticflickr.com
+Sitemap: https://hector-felix.github.io/sitemap.xml
+Host: https://hector-felix.github.io
